@@ -1,1 +1,2 @@
-Lel
+git congfig --global user.email "EMAIL ADDRESS"
+git congfig --global user.name "USERNAME" 
